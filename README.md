@@ -1,4 +1,4 @@
 data
 ====
 
-Raw data used in my data journalism stories
+Raw data from Chad Skelton's data journalism projects
