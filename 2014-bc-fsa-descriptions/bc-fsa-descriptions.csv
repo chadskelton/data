@@ -1,0 +1,191 @@
+name,city
+V1A,Kimberley
+V2A,Penticton
+V3A,Langley City
+V4A,Surrey
+V5A,Burnaby
+V6A,Vancouver
+V7A,Richmond
+V8A,Powell River
+V9A,Greater Victoria
+V1B,Vernon
+V2B,Kamloops
+V3B,Port Coquitlam
+V4B,White Rock
+V5B,Burnaby
+V6B,Vancouver
+V7B,Richmond
+V8B,Squamish
+V9B,Greater Victoria
+V1C,Cranbrook
+V2C,Kamloops
+V3C,Port Coquitlam
+V4C,Delta
+V5C,Burnaby
+V6C,Vancouver
+V7C,Richmond
+V8C,Kitimat
+V9C,Greater Victoria
+V1E,Salmon Arm
+V2E,Kamloops
+V3E,Coquitlam
+V4E,Delta
+V5E,Burnaby
+V6E,Vancouver
+V7E,Richmond
+V9E,Greater Victoria
+V1G,Dawson Creek
+V2G,Williams Lake
+V3G,Abbotsford
+V4G,Delta
+V5G,Burnaby
+V6G,Vancouver
+V7G,North Vancouver (district municipality)
+V8G,Terrace
+V9G,Ladysmith
+V1H,Vernon
+V2H,Kamloops
+V3H,Port Moody
+V5H,Burnaby
+V6H,Vancouver
+V7H,North Vancouver (district municipality)
+V9H,Campbell River
+V1J,Fort St. John
+V2J,Quesnel
+V3J,Coquitlam
+V5J,Burnaby
+V6J,Vancouver
+V7J,North Vancouver (district municipality)
+V8J,Prince Rupert
+V9J,Courtenay
+V1K,Merritt
+V2K,Prince George
+V3K,Coquitlam
+V4K,Delta
+V5K,Vancouver
+V6K,Vancouver
+V7K,North Vancouver (district municipality)
+V8K,Saltspring Island
+V9K,Qualicum Beach
+V1L,Nelson
+V2L,Prince George
+V3L,New Westminster
+V4L,Delta
+V5L,Vancouver
+V6L,Vancouver
+V7L,North Vancouver (city)
+V8L,Greater Victoria
+V9L,Duncan
+V1M,Langley Township
+V2M,Prince George
+V3M,New Westminster
+V4M,Delta
+V5M,Vancouver
+V6M,Vancouver
+V7M,North Vancouver (city)
+V8M,Greater Victoria
+V9M,Comox
+V1N,Castlegar
+V2N,Prince George
+V3N,Burnaby
+V4N,Surrey
+V5N,Vancouver
+V6N,Vancouver
+V7N,North Vancouver (district municipality)
+V8N,Greater Victoria
+V9N,Courtenay
+V1P,Kelowna
+V2P,Chilliwack
+V4P,Surrey
+V5P,Vancouver
+V6P,Vancouver
+V7P,North Vancouver (city)
+V8P,Greater Victoria
+V9P,Parksville
+V1R,Trail
+V2R,Chilliwack
+V3R,Surrey
+V4R,Maple Ridge
+V5R,Vancouver
+V6R,Vancouver
+V7R,North Vancouver (district municipality)
+V8R,Greater Victoria
+V9R,Nanaimo
+V1S,Kamloops
+V2S,Abbotsford
+V3S,Surrey
+V4S,Mission
+V5S,Vancouver
+V6S,Vancouver
+V7S,West Vancouver
+V8S,Greater Victoria
+V9S,Nanaimo
+V1T,Vernon
+V2T,Abbotsford
+V3T,Surrey
+V4T,West Kelowna
+V5T,Vancouver
+V6T,Vancouver
+V7T,West Vancouver
+V8T,Greater Victoria
+V9T,Nanaimo
+V1V,Kelowna
+V2V,Mission
+V3V,Surrey
+V4V,Winfield
+V5V,Vancouver
+V6V,Richmond
+V7V,West Vancouver
+V8V,Greater Victoria
+V9V,Nanaimo
+V1W,Kelowna
+V2W,Maple Ridge
+V3W,Surrey
+V4W,Langley Township
+V5W,Vancouver
+V6W,Richmond
+V7W,West Vancouver
+V8W,Greater Victoria
+V9W,Campbell River
+V1X,Kelowna
+V2X,Maple Ridge
+V3X,Surrey
+V4X,Abbotsford
+V5X,Vancouver
+V6X,Richmond
+V7X,Vancouver
+V8X,Greater Victoria
+V9X,Cedar
+V1Y,Kelowna
+V2Y,Langley Township
+V3Y,Pitt Meadows
+V5Y,Vancouver
+V6Y,Richmond
+V7Y,Vancouver
+V8Y,Greater Victoria
+V9Y,Port Alberni
+V1Z,West Kelowna
+V2Z,Langley Township
+V4Z,Chilliwack
+V5Z,Vancouver
+V6Z,Vancouver
+V8Z,Greater Victoria
+V9Z,Sooke
+V0A,Upper Columbia Region
+V0B,East Kootenays
+V0C,Northern British Columbia
+V0E,"High Country, Shuswap and Northeast Okanagan"
+V0G,West Kootenays
+V0H,Southeast Okanagan and Boundary Country
+V0J,Omineca and Yellowhead
+V0K,"Cariboo, Fraser Canyon and Western Okanagan"
+V0L,Chilcotin
+V0M,Harrison Lake Region
+V0N,"North Vancouver Island, Sunshine Coast, Sea-to-Sky Country and Southern Gulf Islands"
+V0P,North Central Vancouver Island and Discovery Islands
+V0R,Central and South Vancouver Island
+V0S,Juan de Fuca Shore
+V0T,Inside Passage and Haida Gwaii
+V0V,Lower Skeena Region
+V0W,Atlin Region
+V0X,Similkameen Region
