@@ -1,4 +1,4 @@
-lobbyists
+donations
 ====
 
 Raw data from Chad Skelton's 2013 B.C. political donation series, written with Lori Culbert and Gord Hoekstra. More details: 
