@@ -4,13 +4,13 @@ CTUID,CTUIDText,CSDSimple,CSDNAME,CSDTYPE
 9330203,9330203.00,New Westminster,New Westminster,CY
 9330134,9330134.00,West Vancouver,West Vancouver,DM
 9330403.05,9330403.05,Maple Ridge,Maple Ridge,DM
-9330116,9330116.00,North Vancouver,North Vancouver,DM
+9330116,9330116.00,North Vancovuer District,North Vancouver,DM
 9330502.07,9330502.07,Langley District,Langley,DM
 9330028,9330028.00,Vancouver,Vancouver,CY
 9330504.13,9330504.13,Langley District,Langley,DM
 9330504.07,9330504.07,Langley District,Langley,DM
 9330221.01,9330221.01,Burnaby,Burnaby,CY
-9330100.01,9330100.01,North Vancouver,North Vancouver,CY
+9330100.01,9330100.01,North Vancouver City,North Vancouver,CY
 9330142.02,9330142.02,Richmond,Richmond,CY
 9330282.02,9330282.02,Coquitlam,Coquitlam,CY
 9330027.01,9330027.01,Vancouver,Vancouver,CY
@@ -22,9 +22,9 @@ CTUID,CTUIDText,CSDSimple,CSDNAME,CSDTYPE
 9330260.09,9330260.09,Port Moody,Port Moody,CY
 9330143.02,9330143.02,Richmond,Richmond,CY
 9330184.06,9330184.06,Surrey,Surrey,CY
-9330111.03,9330111.03,North Vancouver,North Vancouver,DM
+9330111.03,9330111.03,North Vancovuer District,North Vancouver,DM
 9330187.06,9330187.06,Surrey,Surrey,CY
-9330101.04,9330101.04,North Vancouver,North Vancouver,CY
+9330101.04,9330101.04,North Vancouver City,North Vancouver,CY
 9330060.02,9330060.02,Vancouver,Vancouver,CY
 9330402.02,9330402.02,Maple Ridge,Maple Ridge,DM
 9330053.02,9330053.02,Vancouver,Vancouver,CY
@@ -42,7 +42,7 @@ CTUID,CTUIDText,CSDSimple,CSDNAME,CSDTYPE
 9330506.02,9330506.02,Langley District,Langley,DM
 9330143.03,9330143.03,Richmond,Richmond,CY
 9330185.1,9330185.10,Surrey,Surrey,CY
-9330114.02,9330114.02,North Vancouver,North Vancouver,DM
+9330114.02,9330114.02,North Vancovuer District,North Vancouver,DM
 9330006.02,9330006.02,Vancouver,Vancouver,CY
 9330051.01,9330051.01,Vancouver,Vancouver,CY
 9330189.05,9330189.05,Surrey,Surrey,CY
@@ -56,7 +56,7 @@ CTUID,CTUIDText,CSDSimple,CSDNAME,CSDTYPE
 9330501.01,9330501.01,Langley District,Langley,DM
 9330205.02,9330205.02,New Westminster,New Westminster,CY
 9330404.01,9330404.01,Maple Ridge,Maple Ridge,DM
-9330111.02,9330111.02,North Vancouver,North Vancouver,DM
+9330111.02,9330111.02,North Vancovuer District,North Vancouver,DM
 9330016.05,9330016.05,Vancouver,Vancouver,CY
 9330162.03,9330162.03,Delta,Delta,DM
 9330005,9330005.00,Vancouver,Vancouver,CY
@@ -72,8 +72,8 @@ CTUID,CTUIDText,CSDSimple,CSDNAME,CSDTYPE
 9330188.04,9330188.04,Surrey,Surrey,CY
 9330035.01,9330035.01,Vancouver,Vancouver,CY
 9330260.1,9330260.10,Port Moody,Port Moody,CY
-9330113,9330113.00,North Vancouver,North Vancouver,DM
-9330121,9330121.00,North Vancouver,North Vancouver,DM
+9330113,9330113.00,North Vancovuer District,North Vancouver,DM
+9330121,9330121.00,North Vancovuer District,North Vancouver,DM
 9330287.09,9330287.09,Coquitlam,Coquitlam,CY
 9330151.05,9330151.05,Richmond,Richmond,CY
 9330163.04,9330163.04,Delta,Delta,DM
@@ -83,7 +83,7 @@ CTUID,CTUIDText,CSDSimple,CSDNAME,CSDTYPE
 9330204.01,9330204.01,New Westminster,New Westminster,CY
 9330018.02,9330018.02,Vancouver,Vancouver,CY
 9330183.03,9330183.03,Surrey,Surrey,CY
-9330110.02,9330110.02,North Vancouver,North Vancouver,DM
+9330110.02,9330110.02,North Vancovuer District,North Vancouver,DM
 9330180.01,9330180.01,Surrey,Surrey,CY
 9330067.02,9330067.02,Vancouver,Vancouver,CY
 9330190.04,9330190.04,Surrey,Surrey,CY
@@ -138,7 +138,7 @@ CTUID,CTUIDText,CSDSimple,CSDNAME,CSDTYPE
 9330181.1,9330181.10,Surrey,Surrey,CY
 9330068,9330068.00,Vancouver,Vancouver,CY
 9330148,9330148.00,Richmond,Richmond,CY
-9330103,9330103.00,North Vancouver,North Vancouver,CY
+9330103,9330103.00,North Vancouver City,North Vancouver,CY
 9330007.02,9330007.02,Vancouver,Vancouver,CY
 9330147.09,9330147.09,Richmond,Richmond,CY
 9330184.11,9330184.11,Surrey,Surrey,CY
@@ -151,20 +151,20 @@ CTUID,CTUIDText,CSDSimple,CSDNAME,CSDTYPE
 9330037.01,9330037.01,Vancouver,Vancouver,CY
 9330208,9330208.00,New Westminster,New Westminster,CY
 9330043.01,9330043.01,Vancouver,Vancouver,CY
-9330111.01,9330111.01,North Vancouver,North Vancouver,DM
-9330101.03,9330101.03,North Vancouver,North Vancouver,CY
+9330111.01,9330111.01,North Vancovuer District,North Vancouver,DM
+9330101.03,9330101.03,North Vancouver City,North Vancouver,CY
 9330001.01,9330001.01,Vancouver,Vancouver,CY
 9330243.01,9330243.01,Burnaby,Burnaby,CY
 9330292.01,9330292.01,Port Coquitlam,Port Coquitlam,CY
 9330130.03,9330130.03,Capilano,Capilano 5,IRI
 9330191.06,9330191.06,Surrey,Surrey,CY
 9330504.12,9330504.12,Langley District,Langley,DM
-9330122,9330122.00,North Vancouver,North Vancouver,DM
+9330122,9330122.00,North Vancovuer District,North Vancouver,DM
 9330181.07,9330181.07,Surrey,Surrey,CY
 9330063,9330063.00,Vancouver,Vancouver,CY
 9330181.14,9330181.14,Surrey,Surrey,CY
 9330223.02,9330223.02,Burnaby,Burnaby,CY
-9330120,9330120.00,North Vancouver,North Vancouver,DM
+9330120,9330120.00,North Vancovuer District,North Vancouver,DM
 9330183.04,9330183.04,Surrey,Surrey,CY
 9330402.03,9330402.03,Maple Ridge,Maple Ridge,DM
 9330038,9330038.00,Vancouver,Vancouver,CY
@@ -175,7 +175,7 @@ CTUID,CTUIDText,CSDSimple,CSDNAME,CSDTYPE
 9330191.04,9330191.04,Surrey,Surrey,CY
 9330067.01,9330067.01,Vancouver,Vancouver,CY
 9330045.01,9330045.01,Vancouver,Vancouver,CY
-9330101.05,9330101.05,North Vancouver,North Vancouver,CY
+9330101.05,9330101.05,North Vancouver City,North Vancouver,CY
 9330233,9330233.00,Burnaby,Burnaby,CY
 9330151.06,9330151.06,Richmond,Richmond,CY
 9330002.01,9330002.01,Vancouver,Vancouver,CY
@@ -204,7 +204,7 @@ CTUID,CTUIDText,CSDSimple,CSDNAME,CSDTYPE
 9330287.02,9330287.02,Coquitlam,Coquitlam,CY
 9330059.12,9330059.12,Vancouver,Vancouver,CY
 9330192,9330192.00,Surrey,Surrey,CY
-9330101.06,9330101.06,North Vancouver,North Vancouver,CY
+9330101.06,9330101.06,North Vancouver City,North Vancouver,CY
 9330013.04,9330013.04,Vancouver,Vancouver,CY
 9330250.01,9330250.01,Bowen Island,Bowen Island,IM
 9330183.07,9330183.07,Surrey,Surrey,CY
@@ -213,17 +213,17 @@ CTUID,CTUIDText,CSDSimple,CSDNAME,CSDTYPE
 9330186.05,9330186.05,Surrey,Surrey,CY
 9330013.01,9330013.01,Vancouver,Vancouver,CY
 9330011,9330011.00,Vancouver,Vancouver,CY
-9330100.02,9330100.02,North Vancouver,North Vancouver,CY
+9330100.02,9330100.02,North Vancouver City,North Vancouver,CY
 9330161.05,9330161.05,Delta,Delta,DM
 9330290.02,9330290.02,Port Coquitlam,Port Coquitlam,CY
 9330291.01,9330291.01,Port Coquitlam,Port Coquitlam,CY
 9330220,9330220.00,Burnaby,Burnaby,CY
-9330117,9330117.00,North Vancouver,North Vancouver,DM
+9330117,9330117.00,North Vancovuer District,North Vancouver,DM
 9330235.03,9330235.03,Burnaby,Burnaby,CY
 9330505.02,9330505.02,Langley District,Langley,DM
-9330112,9330112.00,North Vancouver,North Vancouver,DM
+9330112,9330112.00,North Vancovuer District,North Vancouver,DM
 9330183.06,9330183.06,Surrey,Surrey,CY
-9330118,9330118.00,North Vancouver,North Vancouver,DM
+9330118,9330118.00,North Vancovuer District,North Vancouver,DM
 9330290.04,9330290.04,Port Coquitlam,Port Coquitlam,CY
 9330185.16,9330185.16,Surrey,Surrey,CY
 9330235.04,9330235.04,Burnaby,Burnaby,CY
@@ -243,7 +243,7 @@ CTUID,CTUIDText,CSDSimple,CSDNAME,CSDTYPE
 9330243.02,9330243.02,Burnaby,Burnaby,CY
 9330260.06,9330260.06,Port Moody,Port Moody,CY
 9330014.02,9330014.02,Vancouver,Vancouver,CY
-9330114.01,9330114.01,North Vancouver,North Vancouver,DM
+9330114.01,9330114.01,North Vancovuer District,North Vancouver,DM
 9330052.02,9330052.02,Vancouver,Vancouver,CY
 9330019,9330019.00,Vancouver,Vancouver,CY
 9330047.01,9330047.01,Vancouver,Vancouver,CY
@@ -284,7 +284,7 @@ CTUID,CTUIDText,CSDSimple,CSDNAME,CSDTYPE
 9330147.07,9330147.07,Richmond,Richmond,CY
 9330020,9330020.00,Vancouver,Vancouver,CY
 9330033.01,9330033.01,Vancouver,Vancouver,CY
-9330115,9330115.00,North Vancouver,North Vancouver,DM
+9330115,9330115.00,North Vancovuer District,North Vancouver,DM
 9330144.06,9330144.06,Richmond,Richmond,CY
 9330170.07,9330170.07,White Rock,White Rock,CY
 9330184.15,9330184.15,Surrey,Surrey,CY
@@ -307,7 +307,7 @@ CTUID,CTUIDText,CSDSimple,CSDNAME,CSDTYPE
 9330235.02,9330235.02,Burnaby,Burnaby,CY
 9330030,9330030.00,Vancouver,Vancouver,CY
 9330151.03,9330151.03,Richmond,Richmond,CY
-9330110.04,9330110.04,North Vancouver,North Vancouver,DM
+9330110.04,9330110.04,North Vancovuer District,North Vancouver,DM
 9330140.02,9330140.02,Richmond,Richmond,CY
 9330010.02,9330010.02,Vancouver,Vancouver,CY
 9330161.06,9330161.06,Delta,Delta,DM
@@ -338,7 +338,7 @@ CTUID,CTUIDText,CSDSimple,CSDNAME,CSDTYPE
 9330147.04,9330147.04,Richmond,Richmond,CY
 9330400.06,9330400.06,Maple Ridge,Maple Ridge,DM
 9330182.03,9330182.03,Surrey,Surrey,CY
-9330110.03,9330110.03,North Vancouver,North Vancouver,DM
+9330110.03,9330110.03,North Vancovuer District,North Vancouver,DM
 9330281.01,9330281.01,Coquitlam,Coquitlam,CY
 9330504.08,9330504.08,Langley District,Langley,DM
 9330286.02,9330286.02,Coquitlam,Coquitlam,CY
@@ -367,7 +367,7 @@ CTUID,CTUIDText,CSDSimple,CSDNAME,CSDTYPE
 9330185.19,9330185.19,Surrey,Surrey,CY
 9330187.07,9330187.07,Surrey,Surrey,CY
 9330182.04,9330182.04,Surrey,Surrey,CY
-9330119,9330119.00,North Vancouver,North Vancouver,DM
+9330119,9330119.00,North Vancovuer District,North Vancouver,DM
 9330141.02,9330141.02,Richmond,Richmond,CY
 9330017.02,9330017.02,Vancouver,Vancouver,CY
 9330183.01,9330183.01,Surrey,Surrey,CY
@@ -398,7 +398,7 @@ CTUID,CTUIDText,CSDSimple,CSDNAME,CSDTYPE
 9330050.04,9330050.04,Vancouver,Vancouver,CY
 9330133.01,9330133.01,West Vancouver,West Vancouver,DM
 9330234,9330234.00,Burnaby,Burnaby,CY
-9330102,9330102.00,North Vancouver,North Vancouver,CY
+9330102,9330102.00,North Vancouver City,North Vancouver,CY
 9330504.09,9330504.09,Langley District,Langley,DM
 9330287.13,9330287.13,Coquitlam,Coquitlam,CY
 9330189.07,9330189.07,Surrey,Surrey,CY
@@ -417,7 +417,7 @@ CTUID,CTUIDText,CSDSimple,CSDNAME,CSDTYPE
 9330026,9330026.00,Vancouver,Vancouver,CY
 9330010.01,9330010.01,Vancouver,Vancouver,CY
 9330161.02,9330161.02,Delta,Delta,DM
-9330104,9330104.00,North Vancouver,North Vancouver,CY
+9330104,9330104.00,North Vancouver City,North Vancouver,CY
 9330181.12,9330181.12,Surrey,Surrey,CY
 9330230.01,9330230.01,Burnaby,Burnaby,CY
 9330161.03,9330161.03,Delta,Delta,DM
